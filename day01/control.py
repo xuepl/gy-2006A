@@ -6,9 +6,7 @@
 #
 # """
 # asdjfosjfoisajfoisafoiasjfioasjfioasjfiajsdfio
-
 # asjfosjfoiasdf
-
 # asfjosdfjio
 # 成绩评定： 0-59分 不及格 60-70 及格 71-80 良好 81-100 优秀
 # 编写程序实现下列需求，给定任意成绩，程序运行之后输出该成绩的级别
@@ -29,7 +27,8 @@
 #         print("优秀")
 #     else:
 #         print("请输入正确的成绩")
-
+# sjisjdifjsidfjis
+# shishii
 
 '''
 if():
