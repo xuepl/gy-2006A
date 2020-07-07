@@ -28,7 +28,7 @@
 #     else:
 #         print("请输入正确的成绩")
 # sjisjdifjsidfjis
-# shishii
+# shishiisfsf
 
 '''
 if():
