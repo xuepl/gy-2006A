@@ -5,6 +5,11 @@
 #     print("非合作方")
 #
 # """
+# asdjfosjfoisajfoisafoiasjfioasjfioasjfiajsdfio
+
+# asjfosjfoiasdf
+
+# asfjosdfjio
 # 成绩评定： 0-59分 不及格 60-70 及格 71-80 良好 81-100 优秀
 # 编写程序实现下列需求，给定任意成绩，程序运行之后输出该成绩的级别
 # 例如：59分，程序打印出"不及格"
